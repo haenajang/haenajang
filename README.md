@@ -1,6 +1,5 @@
-## Hi! I'm Hannah. 👋
+## 안녕하세요, 웹퍼블리셔&프론트엔드 개발자 해나입니다! 👋
 
-<img src="https://img.shields.io/badge/suni4256@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"> &nbsp; 
 <!--
 **haenajang/haenajang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WookyoungKim&fontSize=70&animation=twinkling)
 
-<p align="left">🇰🇷 🇦🇺 🇸🇬</p>
 
-<h3 align="left">🛠 Tech Stack 🛠</h3>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HaeNaJang&fontSize=70&animation=twinkling)
+
+<h3 align="left"> 🍀 Contact Me </h3>
+<p align="left">
+  <a href="https://notion.so"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://notion.so/"/></a>&nbsp
+  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+</p>
+<br>
+
+
+<h3 align="left"> 💻 Tech Stack </h3>
 
 <p align="left"> Techs that I've used at least once </p>
 
@@ -44,15 +51,6 @@ Here are some ideas to get you started:
 <br>
 
 
-<h3 align="left"> 🧸 Me 🧸 </h3>
-<p align="left">
-  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
-  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
-</p>
-<br>
 
-<p align="left">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
+
 
