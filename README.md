@@ -1,5 +1,6 @@
 ## Hi! I'm Hannah. 👋
-![Static Badge](https://img.shields.io/badge/:badgeContent?logo=gmail&logoColor=%23ffffff&label=suni4256%40gmail.com&labelColor=%23ffffff&color=%23EA4335)
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 
 <!--
 **haenajang/haenajang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
