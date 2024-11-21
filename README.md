@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 
 <h3 align="left"> 🍀 Contact Me </h3>
 <p align="left">
-  <a href="https://notion.so"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://notion.so/"/></a>&nbsp
+  <a href="https://slash-resonance-285.notion.site/1450639dbcbe80ecafddcd0635e01735"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=[https://notion.so](https://slash-resonance-285.notion.site/1450639dbcbe80ecafddcd0635e01735)/"/></a>&nbsp
   <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
-
 
 <h3 align="left"> 💻 Tech Stack </h3>
 
