@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HaeNaJang&fontSize=70&animation=twinkling)
 
-<h3 align="left"> 🍀 Contact Me </h3>
-<p align="left">
-  <a href="https://slash-resonance-285.notion.site/1450639dbcbe80ecafddcd0635e01735"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=[https://notion.so](https://slash-resonance-285.notion.site/1450639dbcbe80ecafddcd0635e01735)/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
-</p>
-<br>
+
 
 <h3 align="left"> 💻 Tech Stack </h3>
 
@@ -49,6 +44,12 @@ Here are some ideas to get you started:
   
 <br>
 
+<h3 align="left"> 🍀 Contact Me </h3>
+<p align="left">
+  <a href="https://slash-resonance-285.notion.site/1450639dbcbe80ecafddcd0635e01735"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=[https://notion.so](https://slash-resonance-285.notion.site/1450639dbcbe80ecafddcd0635e01735)/"/></a>&nbsp
+  <a href="mailto:suni4256@naver.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=suni4256@naver.com"/></a>
+</p>
+<br>
 
 
 
